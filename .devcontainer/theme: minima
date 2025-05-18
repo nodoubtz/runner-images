@@ -1,0 +1,4 @@
+git add _config.yml
+git commit -m "Add Jekyll theme for GitHub Pages"
+git push
+
